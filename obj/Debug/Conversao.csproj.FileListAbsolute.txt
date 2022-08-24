@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Conversao\bin\Debug\Conversao.exe.config
+C:\WorkspaceLediane\Conversao\bin\Debug\Conversao.exe
+C:\WorkspaceLediane\Conversao\bin\Debug\Conversao.pdb
+C:\WorkspaceLediane\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Conversao\obj\Debug\Conversao.exe
+C:\WorkspaceLediane\Conversao\obj\Debug\Conversao.pdb
+C:\WorkspaceLediane\Conversao\obj\Debug\Conversao.csproj.AssemblyReference.cache
